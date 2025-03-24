@@ -1,4 +1,4 @@
-# Pharma Insights Scraper
+# Pharma News Scraper
 
 A tool for scraping pharmaceutical news and press releases from major pharmaceutical companies' websites to gather insights about industry trends, regulatory approvals, clinical trials, and more.
 
