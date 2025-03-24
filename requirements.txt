@@ -1,0 +1,7 @@
+agentql
+pandas
+playwright
+python-dotenv
+asyncio
+requests
+spider-api>=0.1.0 
